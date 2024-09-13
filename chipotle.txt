@@ -1,2 +1,64 @@
-New! Keyboard shortcuts … Drive keyboard shortcuts have been updated to give you first-letters navigation
- --- Content from https://www.chipotle.com/ --- Mexican Food - Restaurant & Catering - Chipotle Mexican Grill ENABLE ACCESSIBILITY MENU CATERING REWARDS OUR VALUES NUTRITION Enjoy $0 Delivery Fee* on tender, hand- chopped Smoked Brisket. Seasoned and finished with our unique brisket sauce. Enjoy $0 Delivery Fee* on tender, hand-chopped Smoked Brisket. Seasoned and finished with our unique brisket sauce. ORDER NOW ORDER NOW *Higher menu prices and (except in California) additional service fees apply for delivery. $10 min/$200 max, excl tax and fees. Valid 9/12-9/29/2024. Chipotle.com or Chipotle app only; purchase of Smoked Brisket entrée req’d. Additional terms & conditions: https://www.chipotle.com/zerodollardelivery *Higher menu prices and (except in California) additional service fees apply for delivery. $10 min/$200 max, excl tax and fees. Valid 9/12-9/29/2024. Chipotle.com or Chipotle app only; purchase of Smoked Brisket entrée req’d. Additional terms & conditions: https://www.chipotle.com/zerodollardelivery. JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE. CREATE AN ACCOUNT OR SIGN IN SMOKED BRISKET IS BACK FOR A LIMITED TIME Tender, hand-chopped, seasoned with Mexican spices, then finished in our unique brisket sauce made with smoky chili peppers. SMOKED BRISKET IS BACK FOR A LIMITED TIME Tender, hand-chopped, seasoned with Mexican spices, then finished in our unique brisket sauce made with smoky chili peppers. ORDER NOW ORDER NOW INTRODUCING YOUR NEW PERFECT PAIRING Discover refreshing new flavors that complement our real ingredients in your go-to order. INTRODUCING YOUR NEW PERFECT PAIRING Discover refreshing new flavors that complement our real ingredients in your go-to order. ORDER NOW ORDER NOW CROWD PLEASERS CATERING From 6 to 200 people Starting at $8.25* / personBuild Your OwnBurritos by the BoxChips & SalsaRequires 24 hours notice From 6 to 200 people Starting at $8.25* / personBuild Your OwnBurritos by the BoxChips & SalsaRequires 24 hours notice ORDER CATERING GROUP ORDER Order up to 15 meals totalNormal menu pricingFull menu Personalized meals Organizer paysOrder and eat today Order up to 15 meals totalNormal menu pricingFull menu Personalized meals Organizer paysOrder and eat today START A GROUP ORDER CONTACT SUPPORT CAREERS CHIPOTLE GOODS GIFT CARDS FUNDRAISING REWARDS Our Values News & Events Investors Health & Safety Cultivate Foundation All Locations Sustainability YOU'VE GOT #{rewardsPointsCount} Points can take 24-48 hours to be added. You have enough points for #{rewardsCount}. VIEW REWARDS EXCHANGE JOIN REWARDS GET REWARDED The faster way to free Chipotle JOIN NOW LEARN MORE DOWNLOAD OUR APP CONNECT WITH US © 2024 Chipotle Mexican Grill Accessibility Statement Applicant Privacy Notice California Transparency in Supply Chains Act Consumer Health Data Notice Terms of Use Cookie Policy Privacy Center Privacy Policy, including California Privacy Rights Your Privacy Choices --- Content from https://www.chipotle.com/values --- Our Values ENABLE ACCESSIBILITY MENU CATERING REWARDS OUR VALUES NUTRITION CONTACT SUPPORT CAREERS CHIPOTLE GOODS GIFT CARDS FUNDRAISING REWARDS Our Values News & Events Investors Health & Safety Cultivate Foundation All Locations Sustainability YOU'VE GOT #{rewardsPointsCount} Points can take 24-48 hours to be added. You have enough points for #{rewardsCount}. VIEW REWARDS EXCHANGE JOIN REWARDS GET REWARDED The faster way to free Chipotle JOIN NOW LEARN MORE DOWNLOAD OUR APP CONNECT WITH US © 2024 Chipotle Mexican Grill Accessibility Statement Applicant Privacy Notice California Transparency in Supply Chains Act Consumer Health Data Notice Terms of Use Cookie Policy Privacy Center Privacy Policy, including California Privacy Rights Your Privacy Choices --- Content from https://catering.chipotle.com/ --- Chipotle CateringPlease enable JavaScript to use our site.
+Chipotle Corpus
+
+ 1. Menu Items
+ Burrito: A large flour tortilla filled with rice, beans, meat (chicken, steak, carnitas, barbacoa), salsa, cheese, sour cream, and guacamole.
+ Burrito Bowl: All the ingredients of a burrito, served in a bowl without the tortilla. Customizable with various proteins and toppings.
+ Tacos: Soft or crispy tacos filled with rice, beans, meat, and toppings such as lettuce, cheese, and salsa. Comes in threes.
+ Salad: A base of romaine lettuce topped with your choice of meat, beans, salsa, cheese, guacamole, and Chipotle's signature vinaigrette.
+ Quesadilla: A flour tortilla with melted cheese and your choice of meat or veggies, served with sour cream, salsa, and guacamole on the side.
+ Chips & Guacamole: Freshly made tortilla chips served with creamy guacamole.
+ Chips & Queso: Warm tortilla chips served with melted queso dip.
+
+ 2. Proteins
+ Chicken: Grilled chicken marinated in a blend of spices.
+ Steak: Marinated steak grilled to perfection.
+ Barbacoa: Shredded beef seasoned with adobo, garlic, and cumin.
+ Carnitas: Tender shredded pork slowcooked with spices.
+ Sofritas: Shredded tofu braised with chipotle spices, offering a vegetarian and vegan option.
+ Vegetarian: Includes beans, fajita veggies, and guacamole.
+
+ 3. Salsas and Toppings
+ Fresh Tomato Salsa (Mild): Chopped tomatoes, onions, and cilantro.
+ Tomatillo GreenChili Salsa (Medium): A tangy salsa made with tomatillos and jalapeños.
+ Tomatillo RedChili Salsa (Hot): A spicy salsa with roasted red chili peppers.
+ Corn Salsa: Sweet yellow corn mixed with cilantro, lime, and spices.
+ Cheese: Shredded Monterey Jack cheese.
+ Sour Cream: Cool and creamy sour cream.
+ Guacamole: Made with fresh avocado, lime, cilantro, and jalapeños.
+ Lettuce: Shredded romaine lettuce for burritos, tacos, and salads.
+
+ 4. Sides and Extras
+ Chips: Lightly salted tortilla chips made fresh daily.
+ Guacamole: Freshly mashed avocado with lime, cilantro, and onions.
+ Queso Blanco: A creamy white cheese dip with a hint of spice.
+ Beans: Black beans or pinto beans, both vegetarianfriendly.
+ Rice: White rice with cilantro and lime, or brown rice for a wholegrain option.
+
+ 5. Nutritional Information
+ Calories: Chipotle’s meals can range from about 400 calories for a small salad to over 1,000 calories for a loaded burrito with all toppings.
+ Protein: Highprotein options like chicken, steak, and barbacoa provide between 2040 grams of protein per serving.
+ Fats: Guacamole and cheese add healthy fats, but can significantly increase the calorie count.
+ Carbs: Rice, beans, and tortillas are high in carbohydrates. Chipotle offers brown rice as a healthier alternative.
+ Special Diets: Chipotle offers vegan and vegetarian options (e.g., Sofritas, beans, and veggies). The ketoconscious can opt for salads or bowls without rice and beans.
+
+ 6. Company Overview
+ Founded: Chipotle Mexican Grill was founded by Steve Ells in 1993 in Denver, Colorado.
+ Mission: Chipotle's mission is "Food with Integrity," emphasizing sustainable and responsibly sourced ingredients. This includes sourcing meats from farms that treat animals humanely and do not use antibiotics or added hormones.
+ Ingredients: Chipotle emphasizes using fresh, nonGMO ingredients. The company has committed to transparency about the sourcing and preparation of its food.
+ Digital Ordering: Customers can order online or via the Chipotle app for delivery or pickup, customizing their orders with ease.
+
+ 7. Promotions and Rewards
+ Chipotle Rewards: A loyalty program where customers earn points for every dollar spent. Points can be redeemed for free food, such as chips, guacamole, or a full entrée.
+ LimitedTime Offers: Chipotle occasionally offers limitedtime menu items, such as the Cauliflower Rice or Brisket.
+ Bogo Deals: Chipotle sometimes runs buyonegetone (BOGO) promotions for special events or holidays, like National Burrito Day.
+
+ 8. Sustainability Initiatives
+ Ecofriendly Packaging: Chipotle is committed to reducing its environmental impact by using compostable packaging for bowls and recycled materials for bags.
+ Local Sourcing: Where possible, Chipotle sources ingredients from local farms to reduce the environmental impact of transportation and support local agriculture.
+ Waste Reduction: The company is working towards diverting waste from landfills through recycling and composting initiatives.
+
+ 9. Special Dietary Information
+ GlutenFree: All Chipotle menu items, except the flour tortillas, are glutenfree.
+ Vegetarian & Vegan: Chipotle offers various vegetarian and vegan options, such as Sofritas, black beans, pinto beans, and all salsas.
+ DairyFree: Excluding cheese and sour cream, most items can be made dairyfree.
+ NutFree: Chipotle’s menu is free from peanuts and tree nuts, making it a safe option for those with nut allergies.
